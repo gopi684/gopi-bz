@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/gopi684/gopi-bz/issues"
   },
-  "homepage": "https://github.com/gopi684/gopi-bz#readme"
+  "homepage": "https://github.com/gopi684/gopi-bz#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
